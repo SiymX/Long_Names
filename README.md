@@ -1,3 +1,6 @@
+![longnamesGIT1](https://github.com/SiymX/Long_Names/assets/63435885/6be44bd8-0a4a-4821-ad7f-4352e8d524fc)
+
+
 # Long Name Identifier (C)
 
 The purpose code is to the find the longest name from a list of names which is given by the user. This code asks the user to input a number which is represented by "n" and it means the amount of names they want to enter. Then, it will ask the user to enter the names then it will
